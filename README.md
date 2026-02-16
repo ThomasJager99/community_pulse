@@ -1,7 +1,3 @@
-Вот базовый стандартный README для школьного Flask-проекта.
-
-⸻
-
 Community Pulse
 
 Community Pulse is a simple voting web application built with Flask.
