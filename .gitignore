@@ -1,0 +1,37 @@
+# =========================
+# Python
+# =========================
+__pycache__/
+*.py[cod]
+*$py.class
+pydantic_intro.py
+
+
+# Virtual environment
+venv/
+.venv/
+env/
+ENV/
+
+# Distribution / packaging
+build/
+dist/
+*.egg-info/
+
+# Logs
+*.log
+
+# Environment variables
+.env
+
+# =========================
+# PyCharm / JetBrains
+# =========================
+.idea/
+*.iml
+
+# =========================
+# OS junk
+# =========================
+.DS_Store
+Thumbs.db
